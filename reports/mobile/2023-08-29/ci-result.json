@@ -1,0 +1,230 @@
+[
+  {
+    "path": "/",
+    "score": 0.9
+  },
+  {
+    "path": "/about-us",
+    "score": 0.93
+  },
+  {
+    "path": "/about-us/deputy-executive-director-dpa",
+    "score": 0.94
+  },
+  {
+    "path": "/about-us/executive-director-dpa",
+    "score": 0.93
+  },
+  {
+    "path": "/about-us/faqs/paid-family-medical-leave-faq",
+    "score": 0.96
+  },
+  {
+    "path": "/about-us/state-claims-board",
+    "score": 0.98
+  },
+  {
+    "path": "/about-us/strategic-plan",
+    "score": 0.95
+  },
+  {
+    "path": "/about-us/workforce-snapshot",
+    "score": 0.96
+  },
+  {
+    "path": "/blog-post/division-of-human-resources-emergency-rulemaking",
+    "score": 0.98
+  },
+  {
+    "path": "/blog-post/state-of-colorado-commemorates-the-33rd-anniversary-of-the-americans-with-disabilities",
+    "score": 0.96
+  },
+  {
+    "path": "/category/news",
+    "score": 0.96
+  },
+  {
+    "path": "/contact-us",
+    "score": 0.98
+  },
+  {
+    "path": "/divisions-offices",
+    "score": 0.96
+  },
+  {
+    "path": "/divisions-offices/executive-directors-office",
+    "score": 0.95
+  },
+  {
+    "path": "/divisions-offices/executive-directors-office/accounting",
+    "score": 0.96
+  },
+  {
+    "path": "/divisions-offices/executive-directors-office/budget-policy-analysis",
+    "score": 0.96
+  },
+  {
+    "path": "/divisions-offices/executive-directors-office/contracts-procurement",
+    "score": 0.96
+  },
+  {
+    "path": "/divisions-offices/p3-office",
+    "score": 0.96
+  },
+  {
+    "path": "/divisions-offices/p3-office/about-us-p3-office",
+    "score": 0.97
+  },
+  {
+    "path": "/divisions-offices/p3-office/p3-projects",
+    "score": 0.96
+  },
+  {
+    "path": "/divisions-offices/p3-office/p3-projects/burnham-yard-project",
+    "score": 0.95
+  },
+  {
+    "path": "/divisions-offices/p3-office/p3-projects/dmva-master-planner",
+    "score": 0.95
+  },
+  {
+    "path": "/divisions-offices/p3-office/p3-projects/doc-broadband",
+    "score": 0.96
+  },
+  {
+    "path": "/divisions-offices/p3-office/p3-projects/global-energy-park-glo-park-project",
+    "score": 0.95
+  },
+  {
+    "path": "/divisions-offices/p3-office/p3-projects/steamboat-springs-early-childcare-center",
+    "score": 0.95
+  },
+  {
+    "path": "/dpa-accessibility-support",
+    "score": 0.96
+  },
+  {
+    "path": "/dparesources",
+    "score": 0.98
+  },
+  {
+    "path": "/es",
+    "score": 0.89
+  },
+  {
+    "path": "/es/node/10019",
+    "score": 0.96
+  },
+  {
+    "path": "/es/node/10176",
+    "score": 0.98
+  },
+  {
+    "path": "/es/node/10211",
+    "score": 0.96
+  },
+  {
+    "path": "/es/node/10431",
+    "score": 0.98
+  },
+  {
+    "path": "/es/node/10511",
+    "score": 0.98
+  },
+  {
+    "path": "/es/taxonomy/term/100014",
+    "score": 0.96
+  },
+  {
+    "path": "/executive-directors-office/executive-directors-office-of-communications",
+    "score": 0.96
+  },
+  {
+    "path": "/executive-directors-office/human-resources",
+    "score": 0.96
+  },
+  {
+    "path": "/help-resources/government-resources",
+    "score": 0.98
+  },
+  {
+    "path": "/home",
+    "score": 0.89
+  },
+  {
+    "path": "/news-article/2019-state-colorado-employee-engagement-survey-results",
+    "score": 0.98
+  },
+  {
+    "path": "/news-article/office-administrative-courts-emergency-rulemaking",
+    "score": 0.98
+  },
+  {
+    "path": "/news-article/office-administrative-courts-permanent-rulemaking",
+    "score": 0.98
+  },
+  {
+    "path": "/news/dcs-rulemaking-hearing-11/18/20",
+    "score": 0.98
+  },
+  {
+    "path": "/news/dhr-emergency-rulemaking-chapter-8",
+    "score": 0.98
+  },
+  {
+    "path": "/news/dhr-emergency-rulemaking-effective-5/15/22",
+    "score": 0.98
+  },
+  {
+    "path": "/news/dhr-emergency-rulemaking-effective-7/1/22",
+    "score": 0.98
+  },
+  {
+    "path": "/news/dhr-emergency-rulemaking-effective-8/7/2023",
+    "score": 0.98
+  },
+  {
+    "path": "/news/dhr-rulemaking-hearing-11/3/20",
+    "score": 0.98
+  },
+  {
+    "path": "/news/division-of-human-resources-emergency-rulemaking-corrected-6/22/20",
+    "score": 0.98
+  },
+  {
+    "path": "/news/governor-celebrates-state-employees",
+    "score": 0.98
+  },
+  {
+    "path": "/news/joint-dhr/spb-rulemaking-1-19-2021",
+    "score": 0.98
+  },
+  {
+    "path": "/news/joint-dhr/spb-rulemaking-11/17/20",
+    "score": 0.98
+  },
+  {
+    "path": "/news/joint-dhr/spb-rulemaking-3-16-2021",
+    "score": 0.98
+  },
+  {
+    "path": "/news/oac-emergency-permanent-rulemaking-lep-individuals",
+    "score": 0.98
+  },
+  {
+    "path": "/news/office-of-administrative-courts-rulemaking-july-10-2023",
+    "score": 0.98
+  },
+  {
+    "path": "/news/state-fiscal-and-procurement-rulemaking-may-2-2022",
+    "score": 0.98
+  },
+  {
+    "path": "/site-map",
+    "score": 0.97
+  },
+  {
+    "path": "/unused-state-property",
+    "score": 0.98
+  }
+]

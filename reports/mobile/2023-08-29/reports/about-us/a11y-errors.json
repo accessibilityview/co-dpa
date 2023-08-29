@@ -1,0 +1,144 @@
+[
+  {
+    "id": "aria-allowed-attr",
+    "title": "`[aria-*]` attributes do not match their roles",
+    "description": "Each ARIA `role` supports a specific subset of `aria-*` attributes. Mismatching these invalidates the `aria-*` attributes. [Learn more](https://web.dev/aria-allowed-attr/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-114-DIV",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV",
+            "selector": "div.paragraph__column--container-wrapper > div.container > div.paragraph--type--bp-columns__1col > div#tab-1436",
+            "boundingRect": {
+              "top": 783,
+              "bottom": 1258,
+              "left": 55,
+              "right": 357,
+              "width": 302,
+              "height": 475
+            },
+            "snippet": "<div class=\"paragraph paragraph--type--bp-tabs paragraph--view-mode--default paragraph…\" id=\"tab-1436\" aria-multiselectable=\"true\">",
+            "nodeLabel": "Authority\nServices\nPrograms\n\n DPA provides centralized authority by creating ru…",
+            "explanation": "Fix any of the following:\n  ARIA attribute is not allowed: aria-multiselectable=\"true\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag412"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "aria-valid-attr-value",
+    "title": "`[aria-*]` attributes do not have valid values",
+    "description": "Assistive technologies, like screen readers, can't interpret ARIA attributes with invalid values. [Learn more](https://web.dev/aria-valid-attr-value/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-47-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,0,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li.active > a",
+            "boundingRect": {
+              "top": 783,
+              "bottom": 829,
+              "left": 55,
+              "right": 154,
+              "width": 99,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-1436-1\" aria-controls=\"Authority\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Authority",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Authority\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-48-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,1,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 783,
+              "bottom": 829,
+              "left": 156,
+              "right": 246,
+              "width": 90,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-1436-2\" aria-controls=\"Services\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Services",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Services\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-49-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,2,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 783,
+              "bottom": 829,
+              "left": 248,
+              "right": 345,
+              "width": 97,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-1436-3\" aria-controls=\"Programs\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Programs",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Programs\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag412"
+        ]
+      }
+    },
+    "errorCount": 3
+  }
+]
