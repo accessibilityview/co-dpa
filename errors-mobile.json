@@ -1,0 +1,1194 @@
+[
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "/",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "/",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about-us",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 3
+      }
+    ],
+    "lighthouseErrorCount": 4,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 3
+      }
+    ],
+    "wcagErrorCount": 4
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "contact-us",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "divisions-offices",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "dpa-accessibility-support",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "es",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "dparesources",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "home",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "site-map",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "unused-state-property",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about-us",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 3
+      }
+    ],
+    "lighthouseErrorCount": 4,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 3
+      }
+    ],
+    "wcagErrorCount": 4
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "contact-us",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "dpa-accessibility-support",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "divisions-offices",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "dparesources",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "es",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "site-map",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "home",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "unused-state-property",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "category/news",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about-us/edi",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about-us/strategic-plan",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about-us/state-claims-board",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about-us/workforce-snapshot",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about-us/faqs",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "blog-post/division-of-human-resources-emergency-rulemaking",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "blog-post/state-of-colorado-commemorates-the-33rd-anniversary-of-the-americans-with-disabilities",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "divisions-offices/executive-directors-office",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "divisions-offices/p3-office",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "executive-directors-office/human-resources",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "help-resources/government-resources",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "executive-directors-office/executive-directors-office-of-communications",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "news-article/2019-state-colorado-employee-engagement-survey-results",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "news-article/office-administrative-courts-emergency-rulemaking",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "news-article/office-administrative-courts-permanent-rulemaking",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "news/central-collections-rule-repeal-hearing",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "news/division-of-human-resources-rulemaking-january-31-2020",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "news/oac-emergency-permanent-rulemaking-lep-individuals",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "news/governor-recognizes-state-employees-for-their-public-service",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "news/state-capitol-closed-to-public-indefinitely",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about-us/deputy-executive-director-dpa",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "blog-post/division-of-human-resources-emergency-rulemaking",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "blog-post/state-of-colorado-commemorates-the-33rd-anniversary-of-the-americans-with-disabilities",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about-us/executive-director-dpa",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about-us/strategic-plan",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about-us/workforce-snapshot",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "category/news",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about-us/state-claims-board",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "divisions-offices/p3-office",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "divisions-offices/executive-directors-office",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "executive-directors-office/executive-directors-office-of-communications",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "executive-directors-office/human-resources",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "help-resources/government-resources",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "news-article/2019-state-colorado-employee-engagement-survey-results",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "news-article/office-administrative-courts-emergency-rulemaking",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "news-article/office-administrative-courts-permanent-rulemaking",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "news/dhr-emergency-rulemaking-chapter-8",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "news/governor-celebrates-state-employees",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "news/oac-emergency-permanent-rulemaking-lep-individuals",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "news/state-fiscal-and-procurement-rulemaking-may-2-2022",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "news/office-of-administrative-courts-rulemaking-july-10-2023",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about-us/faqs/paid-family-medical-leave-faq",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "divisions-offices/executive-directors-office/contracts-procurement",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "divisions-offices/executive-directors-office/accounting",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "divisions-offices/p3-office/about-us-p3-office",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "divisions-offices/executive-directors-office/budget-policy-analysis",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "divisions-offices/p3-office/p3-projects",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "es/node/10276",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "es/node/10146",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "es/node/10331",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "es/node/10541",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "es/node/10566",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "news/joint-dhr/spb-rulemaking-1-19-2021",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "news/joint-dhr/spb-rulemaking-3-16-2021",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about-us/faqs/paid-family-medical-leave-faq",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "divisions-offices/p3-office/about-us-p3-office",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "divisions-offices/p3-office/p3-projects",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "divisions-offices/executive-directors-office/contracts-procurement",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "divisions-offices/executive-directors-office/budget-policy-analysis",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "divisions-offices/executive-directors-office/accounting",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "es/node/10019",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "es/node/10176",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "es/node/10511",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "es/node/10211",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "es/node/10431",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "news/joint-dhr/spb-rulemaking-3-16-2021",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "news/joint-dhr/spb-rulemaking-1-19-2021",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "divisions-offices/p3-office/p3-projects/1881-pierce-street-project",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "divisions-offices/p3-office/p3-projects/burnham-yard-project",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "es/taxonomy/term/100014",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "divisions-offices/p3-office/p3-projects/steamboat-springs-early-childcare-center",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "divisions-offices/p3-office/p3-projects/dmva-master-planner",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "divisions-offices/p3-office/p3-projects/global-energy-park-glo-park-project",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "news/dhr-emergency-rulemaking-effective-5/15/22",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "news/dcs-rulemaking-hearing-11/18/20",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "news/dhr-emergency-rulemaking-effective-7/1/22",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "news/division-of-human-resources-emergency-rulemaking-corrected-6/22/20",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "news/dhr-emergency-rulemaking-effective-8/7/2023",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "news/dhr-rulemaking-hearing-11/3/20",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "divisions-offices/p3-office/p3-projects/burnham-yard-project",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "divisions-offices/p3-office/p3-projects/dmva-master-planner",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "divisions-offices/p3-office/p3-projects/doc-broadband",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "divisions-offices/p3-office/p3-projects/global-energy-park-glo-park-project",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "divisions-offices/p3-office/p3-projects/steamboat-springs-early-childcare-center",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "es/taxonomy/term/100014",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "news/dcs-rulemaking-hearing-11/18/20",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "news/dhr-emergency-rulemaking-effective-5/15/22",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "news/dhr-emergency-rulemaking-effective-8/7/2023",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "news/dhr-emergency-rulemaking-effective-7/1/22",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "news/dhr-rulemaking-hearing-11/3/20",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "news/division-of-human-resources-emergency-rulemaking-corrected-6/22/20",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "news/joint-dhr/spb-rulemaking-11/17/20",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dpa",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "news/joint-dhr/spb-rulemaking-11/17/20",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  }
+]
